@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="suanfa:war exploded">
+    <output-path>$PROJECT_DIR$/target/suanfa</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="suanfa" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="F:\workspace\suanfa\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="suanfa/web/Web" />
+    </root>
+  </artifact>
+</component>
